@@ -1,0 +1,63 @@
+img {
+	max-height: 600px:
+	max-width: 600px;
+	height: 600px;
+	width: 600px;
+}
+
+#agentDisplay{
+display: flex;
+justify-content: center;
+
+
+}
+/* AGENT LIST HIDE/DISPLAY */
+#agentJett{
+	display:none;
+	
+}
+
+#agentBreach{
+	display:none;
+	
+}
+
+#agentSage{
+	display:none;
+	
+}
+
+#agentPhoenix{
+	display:none;
+	
+}
+
+#agentSova{
+	display:none;
+	
+}
+
+#agentCypher{
+	display:none;
+	
+}
+
+#agentBrimstone{
+	display:none;
+	
+}
+
+#agentOmen{
+	display:none;
+	
+}
+
+#agentViper{
+	display:none;
+	
+}
+
+#agentRaze{
+	display:none;
+	
+}
